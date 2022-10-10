@@ -2,6 +2,7 @@
 
 void prompt()
 {
+#Osman was here
     cout << "Simple Calculator" << endl;
     cout << "Pick which arthimatic you want to do" << endl;
     cout << "1. add" << endl;
@@ -106,3 +107,4 @@ int main()
 
     return 0;
 }
+
