@@ -1,7 +1,10 @@
 #include "sig.h"
 
 void prompt()
-{
+{ 
+    cout<<"Shankar Kalidindi"<<endl;
+
+//Osman was here
     cout << "Simple Calculator" << endl;
     cout << "Pick which arthimatic you want to do" << endl;
     cout << "1. add" << endl;
