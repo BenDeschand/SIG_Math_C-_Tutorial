@@ -47,6 +47,8 @@ int main()
     
     while(run)
     {
+        print("Ron is here");
+        print("What");
         switch(input)
         {
             case 1:
@@ -109,4 +111,3 @@ int main()
 
     return 0;
 }
-
