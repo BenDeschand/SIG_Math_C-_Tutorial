@@ -1,8 +1,10 @@
 #include "sig.h"
 
 void prompt()
-{
+{ 
     cout<<"Shankar Kalidindi"<<endl;
+
+//Osman was here
     cout << "Simple Calculator" << endl;
     cout << "Pick which arthimatic you want to do" << endl;
     cout << "1. add" << endl;
@@ -12,6 +14,7 @@ void prompt()
     cout << "5. mod" << endl;
     cout << "6. exit" << endl;
     cout << "Pick one (1, 2, 3,4 5, 6): ";
+    cout << "SUBHI WAS HERE";
 }
 
 void firNum()
@@ -106,3 +109,4 @@ int main()
 
     return 0;
 }
+
