@@ -44,6 +44,7 @@ int main()
     
     while(run)
     {
+        print("Ron is here");
         switch(input)
         {
             case 1:
@@ -106,3 +107,5 @@ int main()
 
     return 0;
 }
+git config --global user.email "roncaraway102@gmail.com"
+git config --global user.name "Bacoburn"
