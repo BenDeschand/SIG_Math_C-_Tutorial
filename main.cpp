@@ -3,7 +3,7 @@
 void prompt()
 { 
     cout<<"Shankar Kalidindi"<<endl;
-
+    cout<< "gcthvjvj" << endl;
 //Osman was here
     cout << "Simple Calculator" << endl;
     cout << "Pick which arthimatic you want to do" << endl;
