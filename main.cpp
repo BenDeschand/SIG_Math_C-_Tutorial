@@ -3,7 +3,7 @@
 void prompt()
 { 
     cout<<"Shankar Kalidindi"<<endl;
-    cout << "ali " << endl;
+    cout<< "gcthvjvj" << endl;
 //Osman was here
     cout << "Simple Calculator" << endl;
     cout << "Pick which arthimatic you want to do" << endl;
@@ -29,24 +29,22 @@ void secNum()
 
 void answer(int result)
 {
-    cout << "Answer is 43334 " << result << endl;
+    cout << "Answer is " << result << endl;
 }
 
 int main()
 {
     int input;
-    string something;
     int first;
     int second;
     bool run = true;
     int result;
-    cout << "getting fimialr with git: " << endl;
-    cout << "enter something: ";
-    cin >> something;
-    cout << "just changing things "<<endl;
+
     sig Math = sig("Calc");
+
     prompt();
     cin >> input;
+    
     while(run)
     {
         switch(input)
