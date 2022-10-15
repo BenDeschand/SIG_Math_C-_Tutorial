@@ -35,11 +35,14 @@ void answer(int result)
 int main()
 {
     int input;
+    string something;
     int first;
     int second;
     bool run = true;
     int result;
-
+    cout << "getting fimialr with git: " << endl;
+    cout << "enter something: ";
+    cin >> something;
     sig Math = sig("Calc");
 
     prompt();
