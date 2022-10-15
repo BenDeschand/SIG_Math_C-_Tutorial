@@ -43,11 +43,10 @@ int main()
     cout << "getting fimialr with git: " << endl;
     cout << "enter something: ";
     cin >> something;
+    cout << "just changing things "<<endl;
     sig Math = sig("Calc");
-
     prompt();
     cin >> input;
-    
     while(run)
     {
         switch(input)
