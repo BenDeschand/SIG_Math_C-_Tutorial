@@ -29,7 +29,7 @@ void secNum()
 
 void answer(int result)
 {
-    cout << "Answer is " << result << endl;
+    cout << "Answer is 43334 " << result << endl;
 }
 
 int main()
