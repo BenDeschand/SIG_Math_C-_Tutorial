@@ -1,5 +1,7 @@
 {
-    "files.associations": {
-        "xstring": "cpp"
-    }
+  "files.associations": {
+    "xstring": "cpp",
+    "iostream": "cpp"
+  },
+  "githubPullRequests.ignoredPullRequestBranches": ["master"]
 }
