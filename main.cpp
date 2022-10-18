@@ -15,6 +15,7 @@ void prompt()
     cout << "6. exit" << endl;
     cout << "Pick one (1, 2, 3,4 5, 6): ";
     cout << "SUBHI WAS HERE";
+    cout << "Samuel was here.";
 }
 
 void firNum()
